@@ -28,10 +28,12 @@ While the carbon tax conceptually offers a robust mechanism to incentivize lower
 ## References
 Mengden, A. (2024). Carbon taxes: Europe. Tax Foundation. Retrieved February 2, 2025, from https://taxfoundation.org/data/all/eu/carbon-taxes-europe-2024/.  
 
-Muresianu, A., Mengden, A., & Hartt, M. (2023). How well do carbon taxes match their promise? A new proposed metric. Tax Foundation. Retrieved February 2, 2025, from https://taxfoundation.org/research/all/federal/carbon-tax-rankings/#_ftnref141
+Muresianu, A., Mengden, A., & Hartt, M. (2023). How well do carbon taxes match their promise? A new proposed metric. Tax Foundation. Retrieved February 2, 2025, from https://taxfoundation.org/research/all/federal/carbon-tax-rankings/#_ftnref141.
+
 Brendemoen, A., & Vennemo, H. (1994). A climate treaty and the Norwegian economy: a CGE assessment. The Energy Journal, 15(1), 77-93.  
 
 Cardenas Monar, D., Boutron, C., Fleurence, L., Kessler, L., Postic, S., Starks, A., ... & Wainstain, R. (2024). Maximising benefits of carbon pricing through carbon revenue use: A review of international experiences.  
+
 Climate Action Tracker. (2022). Norway. Retrieved February 2, 2025, from https://climateactiontracker.org/countries/norway/. 
 
 Environment & Society Portal. (n.d.). Norwegian government implements carbon tax on emissions due to acid rain. Retrieved February 2, 2025, from https://www.environmentandsociety.org/tools/keywords/norwegian-government-implements-carbon-tax-emissions-due-acid-rain.      
