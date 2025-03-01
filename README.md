@@ -1,5 +1,5 @@
 
-# A Brief Review of Norway's Carbon Tax: Origin, Coverage, and Effectiveness 
+# A Brief Review of Norway's Carbon Tax: Origin, Coverage, Incidence, and Effectiveness 
 _Bello, M. A_  
 _Faculty of Land and Food Systems, University of British Columbia, Vancouver, Canada_
 
